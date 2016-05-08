@@ -1,6 +1,6 @@
 # Open Open Source
 
-A talk for [scotlandjs](scotlandjs).
+A talk for [scotlandjs].
 
 Although the word is in the name, Open Source is not always very open.
 When we look at the most well known contributors to Open Source, we see that
