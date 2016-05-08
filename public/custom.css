@@ -43,6 +43,18 @@ a:visited, a:active, a {
   font-size: 2em;
 }
 
+.fivehundred img {
+  width: 25em;
+ }
+
+.threehundred img {
+  width: 15em;
+}
+
+.black {
+  color: black;
+}
+
 #heart {
   position: relative;
   top: 20px;
