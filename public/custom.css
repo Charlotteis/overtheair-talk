@@ -22,10 +22,12 @@ li > code {
 
 a:visited, a:active, a {
   color: white;
+  text-decoration: none;
+  border-bottom: 5px solid white;
 }
 
 .stats h1, .stats h2 {
-  background-color: rgba(203, 56, 55, 1);
+  background-color: #E86C2D;
   color: white;
   padding: 10px 20px;
 }
@@ -36,7 +38,11 @@ a:visited, a:active, a {
   position: absolute;
   bottom: 20px;
   left: 20px;
-  background-color: rgba(203, 56, 55, 1);
+  background-color: #E86C2D;
+}
+
+.citation a {
+  border-bottom: 2px solid white;
 }
 
 .real-big {
@@ -53,6 +59,16 @@ a:visited, a:active, a {
 
 .black {
   color: black;
+}
+
+.black a {
+  color: black;
+  text-decoration: none;
+  border-bottom: 5px solid black;
+}
+
+.black a:visited {
+  color: black
 }
 
 #heart {
