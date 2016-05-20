@@ -57,6 +57,14 @@ a:visited, a:active, a {
   width: 15em;
 }
 
+.camp img {
+  width: 13em;
+}
+
+.issue img {
+  width: 37em;
+}
+
 .black {
   color: black;
 }
