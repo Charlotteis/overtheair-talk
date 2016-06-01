@@ -83,3 +83,18 @@ a:visited, a:active, a {
   position: relative;
   top: 20px;
 }
+
+.twitter {
+  width: 100%;
+  font-size: 1.5em;
+  padding: 10px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background: #683114;
+  text-align: right;
+}
+
+.remark-slide-number {
+  display: none;
+}
