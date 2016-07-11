@@ -98,3 +98,9 @@ a:visited, a:active, a {
 .remark-slide-number {
   display: none;
 }
+
+.together {
+    color: #000000;
+    font-family: 'Pacifico', sans-serif;
+    font-size: 5em;
+}
