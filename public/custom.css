@@ -5,8 +5,7 @@ body {
 }
 
 .remark-slide-content {
-  background-color: rgba(203, 56, 55, 1);
-  color: white;
+  color: #e5dadc;
 }
 
 code {
@@ -21,14 +20,14 @@ li > code {
 }
 
 a:visited, a:active, a {
-  color: white;
+  color: #e5dadc;
   text-decoration: none;
   border-bottom: 5px solid white;
 }
 
 .stats h1, .stats h2 {
-  background-color: #E86C2D;
-  color: white;
+  background-color: #263238;
+  color: #e5dadc;
   padding: 10px 20px;
 }
 
@@ -38,11 +37,11 @@ a:visited, a:active, a {
   position: absolute;
   bottom: 20px;
   left: 20px;
-  background-color: #E86C2D;
+  background-color: #263238;
 }
 
 .citation a {
-  border-bottom: 2px solid white;
+  border-bottom: 2px solid #e5dadc;;
 }
 
 .real-big {
@@ -70,13 +69,13 @@ a:visited, a:active, a {
 }
 
 .black a {
-  color: black;
+  color: #263238;
   text-decoration: none;
-  border-bottom: 5px solid black;
+  border-bottom: 5px solid #263238;
 }
 
 .black a:visited {
-  color: black
+  color: #263238;
 }
 
 #heart {
@@ -91,7 +90,8 @@ a:visited, a:active, a {
   position: absolute;
   bottom: 0;
   right: 0;
-  background: #683114;
+  background: #7dcfb6;
+  color: #263238;
   text-align: right;
 }
 
