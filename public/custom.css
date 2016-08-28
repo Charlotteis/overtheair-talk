@@ -22,7 +22,7 @@ li > code {
 a:visited, a:active, a {
   color: #e5dadc;
   text-decoration: none;
-  border-bottom: 5px solid white;
+  border-bottom: 5px solid #e5dadc;
 }
 
 .stats h1, .stats h2 {
