@@ -52,6 +52,10 @@ a:visited, a:active, a {
   width: 25em;
  }
 
+.fourhundred img {
+   width: 20em;
+}
+
 .threehundred img {
   width: 15em;
 }

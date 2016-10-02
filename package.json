@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Charlotteis/scotlandjs-talk.git"
+    "url": "https://github.com/Charlotteis/clsxeurope-talk.git"
   },
   "keywords": [],
   "author": "charlotteis",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Charlotteis/scotlandjs-talk/issues"
+    "url": "https://github.com/Charlotteis/clsxeurope-talk/issues"
   },
-  "homepage": "https://github.com/Charlotteis/scotlandjs-talk",
+  "homepage": "https://github.com/Charlotteis/clsxeurope-talk",
   "devDependencies": {
     "live-server": "^0.9.2"
   }
