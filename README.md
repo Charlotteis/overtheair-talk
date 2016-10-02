@@ -1,6 +1,6 @@
 # Open Open Source
 
-A talk for [nightlybuild.io].
+A talk for [CLSxEurope].
 
 Although the word is in the name, Open Source is not always very open.
 When we look at the most well known contributors to Open Source, we see that
@@ -27,4 +27,4 @@ To make a contributor’s stay enjoyable and comfortable, we’ll talk about:
 * How far a friendly attitude can take you
 * Using inclusive language in all your interactions
 
-[nightlybuild.io]: https://nightlybuild.io/
+[CLSxEurope]: http://clsxeurope.com/
