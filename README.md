@@ -1,6 +1,6 @@
 # Open Open Source
 
-A talk for [CLSxEurope].
+A talk for [Over The Air], 2016.
 
 Although the word is in the name, Open Source is not always very open.
 When we look at the most well known contributors to Open Source, we see that
@@ -27,4 +27,4 @@ To make a contributor’s stay enjoyable and comfortable, we’ll talk about:
 * How far a friendly attitude can take you
 * Using inclusive language in all your interactions
 
-[CLSxEurope]: http://clsxeurope.com/
+[Over The Air]: http://overtheair.org/

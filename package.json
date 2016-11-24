@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Charlotteis/clsxeurope-talk.git"
+    "url": "https://github.com/Charlotteis/overtheair-talk.git"
   },
   "keywords": [],
   "author": "charlotteis",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Charlotteis/clsxeurope-talk/issues"
+    "url": "https://github.com/Charlotteis/overtheair-talk/issues"
   },
-  "homepage": "https://github.com/Charlotteis/clsxeurope-talk",
+  "homepage": "https://github.com/Charlotteis/overtheair-talk",
   "devDependencies": {
     "live-server": "^0.9.2"
   }
