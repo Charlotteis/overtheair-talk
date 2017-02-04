@@ -1,5 +1,7 @@
 # Open Open Source
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Charlotteis/overtheair-talk.svg)](https://greenkeeper.io/)
+
 A talk for [Over The Air], 2016.
 
 Although the word is in the name, Open Source is not always very open.
